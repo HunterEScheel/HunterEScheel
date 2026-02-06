@@ -13,9 +13,3 @@
   <img src="./miku-hatsune-miku.gif" width="1000px">  
   <img src="./miku-hatsune-miku.gif" width="1000px">
   <img src="./miku-hatsune-miku.gif" width="1000px">  
-  <img src="./miku-hatsune-miku.gif" width="1000px">
-  <img src="./miku-hatsune-miku.gif" width="1000px">  
-  <img src="./miku-hatsune-miku.gif" width="1000px">
-  <img src="./miku-hatsune-miku.gif" width="1000px">  
-  <img src="./miku-hatsune-miku.gif" width="1000px">
-  <img src="./miku-hatsune-miku.gif" width="1000px">
